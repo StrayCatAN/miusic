@@ -1,0 +1,19 @@
+{
+  "name": "musicplay",
+  "version": "1.0.0",
+  "description": "musicplay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "player"
+  ],
+  "author": "cat",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.0"
+  }
+}
